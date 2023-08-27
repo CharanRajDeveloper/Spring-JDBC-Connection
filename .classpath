@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/SpringPractice/springjars/springjars/core/core/com.springsource.org.apache.commons.logging-1.1.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/SpringPractice/springjars/springjars/core/core/com.springsource.org.apache.log4j-1.2.15.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/SpringPractice/springjars/springjars/core/core/jmxtools-1.2.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/SpringPractice/springjars/springjars/core/core/org.springframework.asm-3.0.1.RELEASE-A.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/SpringPractice/springjars/springjars/core/core/org.springframework.beans-3.0.1.RELEASE-A.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/SpringPractice/springjars/springjars/core/core/org.springframework.context-3.0.1.RELEASE-A.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/SpringPractice/springjars/springjars/core/core/org.springframework.core-3.0.1.RELEASE-A.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/SpringPractice/springjars/springjars/core/core/org.springframework.expression-3.0.1.RELEASE-A.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/mysql-connector-java-5.1.44.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/mysql-connector.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
